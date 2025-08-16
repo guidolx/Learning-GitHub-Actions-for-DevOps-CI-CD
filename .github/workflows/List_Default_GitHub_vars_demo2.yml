@@ -22,3 +22,4 @@ jobs:
         echo "$GITHUB_RUN_NUMBER"
         echo "$GITHUB_SERVER_URL"
         echo "$RUNNER_NAME"
+        echo "$GITHUB_REPOSITORY_OWNER"
